@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Arrays Basics",
+    "question": "Can you explain what an array is?",
+    "topic": "arrays",
+    "difficulty": "easy",
+    "expected_concepts": [
+      "contiguous memory",
+      "indexing",
+      "fixed size"
+    ],
+    "follow_ups": {
+      "missing_time_complexity": "What is the time complexity of accessing an element?",
+      "missing_edge_case": "What happens if the array index is out of bounds?"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Two Sum",
+    "question": "How would you solve the Two Sum problem?",
+    "topic": "arrays",
+    "difficulty": "easy",
+    "expected_concepts": [
+      "hash map",
+      "time complexity",
+      "space complexity"
+    ],
+    "follow_ups": {
+      "missing_optimization": "Can you do better than a brute-force approach?",
+      "missing_complexity": "What are the time and space complexities?"
+    }
+  }
+]
